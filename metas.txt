@@ -1,0 +1,4 @@
+x - Login Funcional
+x - Linkagem
+o - Cadastro
+o - Organizar Arquivos
