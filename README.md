@@ -1,4 +1,4 @@
-# 🖥️ Clone Interface Netflix
+# 🖥️ ShopNalaura
 
 ![Screenshot_8](https://user-images.githubusercontent.com/80932554/153282528-998c03cf-52a6-4ce3-8d3c-a19ba12b8c9d.jpg) <br/> <br/>
 ![Screenshot_9](https://user-images.githubusercontent.com/80932554/153282587-fdbe373f-8dc8-4f78-8e14-d28270580c8c.jpg)
